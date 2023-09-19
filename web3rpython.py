@@ -21,4 +21,12 @@ def string(val):
 
 val = input("enter: ")
 print(string(val))
+
 print("kamali")
+print("vasanth")
+
+
+
+
+
+
